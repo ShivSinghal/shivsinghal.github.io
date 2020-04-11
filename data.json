@@ -64,12 +64,7 @@
     "to": "/",
     "display": true,
     "icon": "fas fa-briefcase"
-  }, {
-    "title": "skills",
-    "to": "/skills",
-    "display": true,
-    "icon": "fas fa-tools"
-  }, {
+  },  {
     "title": "projects",
     "to": "/projects",
     "display": true,
@@ -80,11 +75,6 @@
     "display": true,
     "icon": "fas fa-award"
   }, {
-    "title": "contributions",
-    "to": "/contributions",
-    "display": true,
-    "icon": "fas fa-people-carry"
-  }, {
     "title": "education",
     "to": "/education",
     "display": true,
@@ -94,11 +84,6 @@
     "to": "/blog",
     "display": false,
     "icon": "fas fa-star"
-  }, {
-    "title": "talks",
-    "to": "/talks",
-    "display": true,
-    "icon": "fas fa-microphone"
   }, {
     "title": "links",
     "to": "/links",
@@ -400,21 +385,13 @@
     "subtitle": "about",
     "timeline": "05/06/2018"
   }],
-  "talks": [{
-    "id": 1,
-    "key": "ta1",
-    "title": "Everything you should know about Genetic Algorithms",
-    "url": "https://youtu.be/GBD_fTbvVjQ",
-    "subtitle": "Pydata Delhi - 2019",
-    "timeline": "19/01/2019"
-  }],
   "education": [{
-    "id": 5,
-    "key": "ed5",
-    "institute": "ABC University",
-    "url": "#",
-    "level": "Bachelor of technology in computer science",
-    "timeline": "05/2016 - Present",
+    "id": 4,
+    "key": "ed4",
+    "institute": "University School of Law and Legal Studies, Guru Gobind Singh Indraprastha University",
+    "url": "http://www.ipu.ac.in/uslls/",
+    "level": "B.A. LL.B.",
+    "timeline": "08/2015 - Present",
     "coursework": {
       "Semester 1": [
         "Basic Engineering - I",
@@ -463,12 +440,12 @@
       ]
     }
   }, {
-    "id": 4,
-    "key": "ed4",
-    "institute": "XYZ School",
-    "url": "http://XYZ.in/",
+    "id": 1,
+    "key": "ed1",
+    "institute": "St. Columba's School",
+    "url": "http://www.stcolumbas.edu.in/",
     "level": "High school",
-    "timeline": "04/2012 - 04/2016",
+    "timeline": "Till 05/2015",
     "coursework": {
       "activities": [
         "2012 | The green olympiad"
@@ -492,17 +469,6 @@
     "about": "<ul> <li > Learned about the application of Design Thinking for Innovation. </li> <li > Explored methods to find out new ideas using current data. </li> <li > Possibility - driven, human - centred and option - focused approach. </li></ul>",
     "complete": true
   }],
-  "contributions": [{
-    "title": "Private",
-    "url": "https://github.com/yogdaan/suraksha/commits?author=Elon musk"
-  }],
-  "communities": [{
-      "id": 1,
-      "key": "cm1",
-      "title": "PyData - Delhi",
-      "url": "#",
-      "timeline": "2017 - Present"
-    }  ],
   "links": [{
     "key": "li11",
     "url": "https://github.com/Elon musk",
@@ -655,42 +621,5 @@
     "title": "hackathon.io/Elon musk",
     "url": "https://www.hackathon.io/Elon musk",
     "icon": "far fa-circle"
-  }],
-  "skills": {
-    "color": ["", "", "", "", "", "", "", "" ,""],
-    "title": ["Frontend", "Backend", "Framework/Library", "DevOps", "Database", "Software/tool", "Mobile", "Hardware" ,"Soft Skills"],
-    "data": {
-      "0": [{
-        "name": "JavaScript",
-        "percent": "90"
-      }],
-      "1": [ {
-        "name": "C/C++",
-        "percent": "75"
-      }],"2": [{
-        "name": "Ionic",
-        "percent": "30"
-      }],
-      "3": [{
-        "name": "Linux",
-        "percent": "60"
-      }],
-      "4": [{
-        "name": "MySql",
-        "percent": "80"
-      }],
-      "5": [{
-        "name": "micro",
-        "percent": "30"
-        }],
-      "7": [{
-          "name": "Raspberry Pi",
-          "percent": "30"
-      }]
-    },
-    "//": [{
-      "name": "Self-Motivated",
-      "percent": "100"
-    }]
-  }
+  }]
 }
