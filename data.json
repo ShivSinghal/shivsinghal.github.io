@@ -391,54 +391,7 @@
     "institute": "University School of Law and Legal Studies, Guru Gobind Singh Indraprastha University",
     "url": "http://www.ipu.ac.in/uslls/",
     "level": "B.A. LL.B.",
-    "timeline": "08/2015 - Present",
-    "coursework": {
-      "Semester 1": [
-        "Basic Engineering - I",
-        "Biology for Engineers",
-        "Principles of Environmental Sciences",
-        "Mathematics - I",
-        "Material Science"
-      ],
-      "Semester 2": [
-        "Digital Computer Fundamentals",
-        "Programming in C",
-        "Chemistry",
-        "Basic Engineering - II",
-        "Mathematics II",
-        "Engineering Graphics",
-        "Physics"
-      ],
-      "Semester 3": [
-        "Data Structures Using C++",
-        "Design And Analysis Of Algorithms",
-        "Microprocessor And Interfacing",
-        "Computer Organization And Architecture",
-        "French language – I",
-        "Mathematics III"
-      ],
-      "Semester 4": [
-        "Principles of Programming languages",
-        "Theory Of Computation",
-        "Operating Systems",
-        "Java Programming",
-        "Probability And Queuing Theory"
-      ],
-      "Semester 5": [
-        "Compliler Design",
-        "Computer Networks",
-        "Operations Research Techniques",
-        "Soft Computing",
-        "Principles of Communication"
-      ],
-      "Semester 6": [
-        "Artificial Intelligence & Expert Systems",
-        "Advance Database",
-        "Database Management Systems",
-        "Logic For Computer Science",
-        "Object Oriented Analysis & Design"
-      ]
-    }
+    "timeline": "08/2015 - Present"
   }, {
     "id": 1,
     "key": "ed1",
@@ -470,156 +423,14 @@
     "complete": true
   }],
   "links": [{
-    "key": "li11",
-    "url": "https://github.com/Elon musk",
+    "key": "li1",
+    "url": "https://github.com/shivsinghal",
     "icon": "fab fa-github",
-    "title": "github/Elon musk"
-  }, {
-    "key": "li10",
-    "url": "https://www.linkedin.com/in/Elon musk/",
-    "icon": "fab fa-linkedin-in",
-    "title": "linkedin/in/Elon musk"
-  }, {
-    "key": "li9",
-    "url": "https://twitter.com/Elon musk",
-    "icon": "fab fa-twitter",
-    "title": "twitter/Elon musk"
-  }, {
-    "key": "li8",
-    "url": "https://hackerrank.com/Elon musk",
-    "icon": "fab fa-hackerrank",
-    "title": "hackerrank/Elon musk"
-  }, {
-    "key": "li7",
-    "name": "reddit",
-    "url": "https://www.reddit.com/user/Elon musk/",
-    "icon": "fab fa-reddit-alien",
-    "title": "reddit/user/Elon musk"
-  }, {
-    "key": "li6",
-    "name": "hackerearth",
-    "url": "https://www.hackerearth.com/@Elon musk",
-    "icon": "fas fa-h-square",
-    "title": "hackerearth/@Elon musk"
-  }, {
-    "key": "li5",
-    "name": "y_combinator",
-    "url": "https://news.ycombinator.com/user?id=Elon musk",
-    "icon": "fab fa-hacker-news",
-    "title": "news.ycombinator/user?id=Elon musk"
-  }, {
-    "key": "li4",
-    "name": "facebook",
-    "url": "https://facebook.com/Elon musk",
-    "icon": "fab fa-facebook",
-    "title": "facebook/Elon musk"
-  }, {
-    "key": "li3",
-    "name": "instagram",
-    "url": "https://www.instagram.com/Elon musk/",
-    "icon": "fab fa-instagram",
-    "title": "Instagram/@Elon musk"
+    "title": "github/Shiv Singhal"
   }, {
     "key": "li2",
-    "name": "youtube",
-    "url": "https://www.youtube.com/channel/xxxxxxxxxxxxxxxx",
-    "icon": "fab fa-youtube",
-    "title": "youtube/channel/xxxxxxxxxxxx"
-  }, {
-    "key": "li1",
-    "name": "medium",
-    "url": "https://medium.com/@Elon musk",
-    "icon": "fab fa-medium-m",
-    "title": "medium/@Elon musk"
-  }, {
-    "key": "li12",
-    "title": "trello/Elon musk",
-    "url": "https://trello.com/Elon musk",
-    "icon": "fab fa-trello"
-  }, {
-    "key": "li13",
-    "title": "stackoverflow/cv/Elon musk",
-    "url": "https://stackoverflow.com/cv/Elon musk",
-    "icon": "fab fa-stack-overflow"
-  }, {
-    "key": "li14",
-    "title": "f6s/Elon musk",
-    "url": "https://www.f6s.com/Elon musk/",
-    "icon": "far fa-circle"
-  }, {
-    "key": "li15",
-    "title": "npmjs/~Elon musk",
-    "url": "https://www.npmjs.com/~Elon musk",
-    "icon": "fab fa-npm"
-  }, {
-    "key": "li16",
-    "title": "slides/Elon musk",
-    "url": "https://slides.com/Elon musk",
-    "icon": "far fa-circle"
-  }, {
-    "key": "li17",
-    "title": "meetup/members/238959535/",
-    "url": "https://www.meetup.com/members/238959535/",
-    "icon": "fab fa-meetup"
-  }, {
-    "key": "li18",
-    "title": "goodreads/Elon musk",
-    "url": "https://www.goodreads.com/Elon musk",
-    "icon": "fab fa-goodreads"
-  }, {
-    "key": "li19",
-    "title": "spotify/user/dwciskg3wo1c3owwgehc0jktm",
-    "url": "https://open.spotify.com/user/dwciskg3wo1c3owwgehc0jktm",
-    "icon": "fab fa-spotify"
-  },{
-    "key": "li20",
-    "title": "kaggle/Elon musk",
-    "url": "https://www.kaggle.com/Elon musk",
-    "icon": "fab fa-kaggle"
-  },{
-    "key": "li21",
-    "title": "codechef/users/Elon musk",
-    "url": "https://www.codechef.com/users/Elon musk",
-    "icon": "far fa-circle"
-  },{
-    "key": "li22",
-    "title": "hackster/Elon musk",
-    "url": "https://www.hackster.io/Elon musk",
-    "icon": "far fa-circle"
-  },{
-    "key": "li23",
-    "title": "keybase/Elon musk",
-    "url": "https://keybase.io/Elon musk",
-    "icon": "far fa-circle"
-  },{
-    "key": "li24",
-    "title":"hackerone/Elon musk",
-    "url": "https://hackerone.com/Elon musk",
-    "icon": "far fa-circle"
-  },{
-    "key": "li25",
-    "title":"tumblr/Elon musk",
-    "url": "https://Elon musk.tumblr.com",
-    "icon": "fab fa-tumblr"
-  },{
-    "key": "li26",
-    "title": "angel/Elon musk",
-    "url": "https://angel.co/Elon musk",
-    "icon": "fab fa-angellist"
-  },{
-    "key": "li27",
-    "title": "gitlab/Elon musk",
-    "url": "https://gitlab.com/Elon musk",
-    "icon": "fab fa-gitlab"
-  },{
-    "key": "li28",
-    "title": "dev.to/Elon musk",
-    "url": "https://dev.to/Elon musk",
-    "icon": "fab fa-dev"
-  },{
-    "key": "li29",
-    "title": "hackathon.io/Elon musk",
-    "url": "https://www.hackathon.io/Elon musk",
-    "icon": "far fa-circle"
+    "url": "https://www.linkedin.com/in/shiv-singhal/",
+    "icon": "fab fa-linkedin-in",
+    "title": "linkedin/in/Shiv Singhal"
   }]
 }
