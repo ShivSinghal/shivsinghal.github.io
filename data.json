@@ -412,16 +412,6 @@
     }
   }
   ],
-  "courses": [{
-    "id": 1,
-    "key": "co1",
-    "title": "Design Thinking for Innovation",
-    "url": "https://www.coursera.org/learn/uva-darden-design-thinking-innovation",
-    "from": "Coursera - University of Virginia",
-    "timeline": "03/2017",
-    "about": "<ul> <li > Learned about the application of Design Thinking for Innovation. </li> <li > Explored methods to find out new ideas using current data. </li> <li > Possibility - driven, human - centred and option - focused approach. </li></ul>",
-    "complete": true
-  }],
   "links": [{
     "key": "li1",
     "url": "https://github.com/shivsinghal",
