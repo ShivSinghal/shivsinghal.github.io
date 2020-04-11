@@ -9,7 +9,7 @@
     "robots": "INDEX , FOLLOW",
     "googleSiteVerificatin": "aAh3TeaoRYBSS0Wf8WP8EyRV8dV1d6APMbVhmMjnLSk",
     "googleAnalyticsId": "UA-135548412-1",
-    "theme": 0
+    "theme": 4
   },
   "og": {
     "title": "Shiv Singhal",
@@ -262,33 +262,135 @@
     "about": "Engaged in - <br>- Proofreading agreements and contracts</br><br>- Judgment analysis</br><br>- Drafting Case Notes</br> "
   }],
   "projects": [{
-      "id": 24,
-      "key": "pr24",
-      "title": "Project Title",
+      "id": 3,
+      "key": "pr3",
+      "title": "Google Online Marketing Challenge",
       "url": "#",
-      "productType": "IOT/Dashboard [Private]",
-      "timeline": "05/2019",
-      "tag": [
-        "AWS",
-        "NodeJS",
-        "Orange Pi Zero 256MB"
-      ],
-      "about": "About Title"
-    }
-  ],
+      "productType": "Online marketing",
+      "timeline": "05/2017 - 08/2017",
+      "about": "Partnered with Rapid Career Academy <br>-Created AdWords Online marketing campaign</br><br>-Developed marketing strategy</br>"
+    },{
+      "id": 2,
+      "key": "pr2",
+      "title": "Cofounder- Frintt",
+      "url": "#",
+      "productType": "Startup",
+      "timeline": "08/2016 - 03/2017",
+      "about": "A micromarketing company that provides free printing services Worked mainly on <br>-Business Development</br><br>-Contacting Clients</br><br>-Finance</br>"
+    },{
+      "id": 1,
+      "key": "pr1",
+      "title": "Cofounder- Sigma",
+      "url": "#",
+      "productType": "Startup",
+      "timeline": "01/2015 - 02/2016",
+      "about": "An After Sales company. Worked mainly on <br>-Business Development</br><br>-Finance</br><br>-Operations</br>"
+    }],
   "achievements": [{
+    "id": 15,
+    "key": "ac15",
+    "title": "Speaker (Rank 111 out of 378 teams) - 26th Willem C. Vis Moot",
+    "url": "#",
+    "timeline": "04/2019",
+    "about": "26th Willem C. Vis International Commercial Arbitration Moot"
+  },{
+    "id": 14,
+    "key": "ac14",
+    "title": "Top 32 Finalist - 3rd AIAC-ICC Pre-Moot for the Willem C. Vis Moot",
+    "url": "#",
+    "timeline": "03/2019",
+    "about": "Speaker in 3rd AIAC-ICC Pre-Moot for the Willem C. Vis International Commercial Arbitration Moot. Made to Top 32 Finalist."
+  },{
+    "id": 13,
+    "key": "ac13",
+    "title": "Quarter Finalists and 5th Best Team - 60th Philip C Jessup International Moot",
+    "url": "#",
+    "timeline": "02/2019",
+    "about": "Speaker in 60th Philip C Jessup International Moot Court Competition, 2019 (India Rounds). Quarter Finalists and 5th Best Team in the Final Team Ranking."
+  },{
+    "id": 12,
+    "key": "ac12",
+    "title": "Best speaker - 15th National Youth Parliament",
+    "url": "#",
+    "timeline": "09/2018",
+    "about": "Certificate from Ministry of Parliamentary Affairs, India"
+  },{
+    "id": 11,
+    "key": "ac11",
+    "title": "Researcher - 59th Philip C Jessup Moot",
+    "url": "#",
+    "timeline": "02/2018",
+    "about": "59th Philip C Jessup International Law Moot Court Competition "
+  },{
+    "id": 10,
+    "key": "ac10",
+    "title": "Third best speaker - 14th National Youth Parliament",
+    "url": "#",
+    "timeline": "08/2017",
+    "about": "Certificate from Ministry of Parliamentary Affairs, India"
+  },{
+    "id": 9,
+    "key": "ac9",
+    "title": "Best Investment Banker - Clash of Companies",
+    "url": "#",
+    "timeline": "09/2017",
+    "about": "Organised by InfoXpression, 2017 (University School of Information, Communication and Technology)"
+  },{
+    "id": 8,
+    "key": "ac8",
+    "title": "Special Mention - OEUVREMUN 2017",
+    "url": "#",
+    "timeline": "03/2017",
+    "about": "OEUVREMUN 2017"
+  },{
+    "id": 7,
+    "key": "ac7",
+    "title": "Finalist - Blueprints, 2017",
+    "url": "#",
+    "timeline": "01/2017",
+    "about": "Blueprints, Business Planning Competition, 2017 organized by Delhi Technological University (DTU)"
+  },{
+    "id": 6,
+    "key": "ac6",
+    "title": "Second Best Researcher - Amity International Moot, 2016",
+    "url": "#",
+    "timeline": "11/2016",
+    "about": "Amity International Moot Court Competition 2016"
+  },{
+    "id": 5,
+    "key": "ac5",
+    "title": "Semi Finalist - Eureka 2015",
+    "url": "#",
+    "timeline": "12/2015",
+    "about": "Eureka 2015 - Asia's largest Business Model Competition organized by IIT Bombay"
+  },{
+    "id": 4,
+    "key": "ac4",
+    "title": "Quarter Finalist - Idea to Implementation (i2i) 2015",
+    "url": "#",
+    "timeline": "10/2015",
+    "about": "Idea to Implementation (i2i) 2015 - Business Plan Competition organized by IIM Calcutta"
+  },{
+    "id": 3,
+    "key": "ac3",
+    "title": "Runners up - Geofest Film Making Competition, 2013",
+    "url": "#",
+    "timeline": "09/2013",
+    "about": "Geofest Film Making Competition, 2013 - Directed a short film on Bullying"
+  },{
+    "id": 2,
+    "key": "ac2",
+    "title": "NEO Observation Holder - All India Asteroid Search Campaign, 2012",
+    "url": "#",
+    "timeline": "09/2012",
+    "about": "All India Asteroid Search Campaign, 2012 - Conducted by Science Popularisation Association of Communicators (S.P.A.C.E) and Educators with International Astronomical Search Collaborators (IASC), USA "
+  },{
     "id": 1,
     "key": "ac1",
-    "title": "Title",
+    "title": "Vedanta Mehra Memorial Award - St. Columba's School",
     "url": "#",
-    "location": "Seattle, USA",
-    "timeline": "06/2015",
-    "tag": [
-      "Robotics",
-      "Problem Solving",
-      "Process Automation"
-    ],
-    "about": "About the achievement"
+    "timeline": "04/2013",
+    "about": "St. Columba's School - First Position in Mathematics in CBSE Class X "
   }],
   "blog": [{
     "id": 1,
