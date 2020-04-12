@@ -132,7 +132,7 @@
       "name": "email",
       "url": "#",
       "icon": "fas fa-inbox",
-      "label": "shivsinghal53[at]gmail"
+      "label": "shivsinghal53[at]gmail.com"
     }, {
       "name": "linkedin",
       "url": "https://www.linkedin.com/in/shiv-singhal/",
@@ -261,7 +261,7 @@
       "url": "#",
       "productType": "Startup",
       "timeline": "08/2016 - 03/2017",
-      "about": "A micromarketing company that provides free printing services Worked mainly on <br>-Business Development</br><br>-Contacting Clients</br><br>-Finance</br>"
+      "about": "A micromarketing startup project that provided free printing services Worked mainly on <br>-Business Development</br><br>-Contacting Clients</br><br>-Finance</br>"
     },{
       "id": 1,
       "key": "pr1",
@@ -269,7 +269,7 @@
       "url": "#",
       "productType": "Startup",
       "timeline": "01/2015 - 02/2016",
-      "about": "An After Sales company. Worked mainly on <br>-Business Development</br><br>-Finance</br><br>-Operations</br>"
+      "about": "An After Sales startup project. Worked mainly on <br>-Business Development</br><br>-Finance</br><br>-Operations</br>"
     }],
   "achievements": [{
     "id": 15,
