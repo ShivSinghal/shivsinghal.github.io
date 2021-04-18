@@ -103,7 +103,7 @@
     "url": "https://shivsinghal.github.io",
     "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Dwarka",
+        "streetAddress": "Delhi",
         "addressLocality": "Delhi",
         "addressRegion": "Delhi",
         "postalCode": "110075",
@@ -413,12 +413,19 @@
     "timeline": "05/06/2018"
   }],
   "education": [{
-    "id": 4,
-    "key": "ed4",
+    "id": 3,
+    "key": "ed3",
+    "institute": "Indian Institute of Technology, Madras",
+    "url": "https://onlinedegree.iitm.ac.in/",
+    "level": "BSC in Programming and Data Science",
+    "timeline": "01/2021 - Present"
+  },{
+    "id": 2,
+    "key": "ed2",
     "institute": "University School of Law and Legal Studies, Guru Gobind Singh Indraprastha University",
     "url": "http://www.ipu.ac.in/uslls/",
     "level": "B.A. LL.B.",
-    "timeline": "08/2015 - Present"
+    "timeline": "08/2015 - 08/2020"
   }, {
     "id": 1,
     "key": "ed1",
